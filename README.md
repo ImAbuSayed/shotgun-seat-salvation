@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Roll the windows down and let the moonlight in
+> I can feel the heat rising on your soft skin
+> We got nowhere to be and all night to drive
+> With you beside me, I've never felt so alive
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
