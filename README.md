@@ -15,7 +15,7 @@
 | **Written On** | May 19, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/shotgun-seat-salvation/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get License For Shotgun Seat Salvation](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/shotgun-seat-salvation/) |
+| **Get License** | [Get a Licensing Quote for Shotgun Seat Salvation](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/shotgun-seat-salvation/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `40e8c8e830a4eb2e83d83844174d984141ac94a2d687925af12354f461efa661` |
 | **Timestamp** | May 24, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
